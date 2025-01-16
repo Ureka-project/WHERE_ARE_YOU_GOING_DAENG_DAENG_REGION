@@ -240,7 +240,6 @@ public class RegionService {
 
 		}
 		);
-		throw new RuntimeException("save failed");
 	}
 
 
